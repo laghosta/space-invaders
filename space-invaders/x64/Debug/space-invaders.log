@@ -1,0 +1,21 @@
+﻿  Game.cpp
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(21,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(37,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(118,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(118,54): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(123,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(148,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(149,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Game.cpp(185,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Spaceship.cpp
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Spaceship.cpp(6,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Spaceship.cpp(7,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Spaceship.cpp(30,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Spaceship.cpp(37,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Spaceship.cpp(49,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\Spaceship.cpp(50,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  space-invaders.vcxproj -> C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\x64\Debug\space-invaders.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

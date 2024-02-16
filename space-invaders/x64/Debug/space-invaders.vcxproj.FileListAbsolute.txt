@@ -1,0 +1,3 @@
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\x64\Debug\space-invaders.exe
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\x64\Debug\space-invaders.vcxproj.CopyComplete
+C:\Users\Sashko\Desktop\c++\space-invaders\space-invaders\x64\Debug\raylib.dll
